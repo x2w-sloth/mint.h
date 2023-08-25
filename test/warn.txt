@@ -1,0 +1,11 @@
+[#] running 2 units
+[+] warn_1 (unit 1/2)
+[+] warn_1 passed
+[+] warn_0 (unit 2/2)
+[-]   warning at warn.c:15
+[-]   0 > 0
+[-]   warning at warn.c:16
+[-]   0 < 0
+[+] warn_0 passed
+[#] total 2/2 units passed
+[#] total 4 tests passed

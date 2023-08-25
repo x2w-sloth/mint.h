@@ -1,0 +1,9 @@
+[#] running 2 units
+[+] assert_ok (unit 1/2)
+[+] assert_ok passed
+[+] assert_fail (unit 2/2)
+[-]   assert at assert.c:14
+[-]   0
+[+] assert_fail failed
+[#] total 1/2 units passed
+[#] total 4 tests passed
